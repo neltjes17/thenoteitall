@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    background-image: url("https://webgradients.com/public/webgradients_png/091%20Eternal%20Constance.png");
+}
+
+header {
+    width: 100%;
+    text-align: center;
+    background-color: white;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+.w3-container {
+    max-width: 1600px;
+}
+
+.w3-row {
+    margin: 0 20px;
+}
+
+.pageContainer {
+    margin-top: 20px;
+}
+
+.smallTitleText {
+    font-size: 1.1em;
+}
+
+
+/* Page Container */
+.infoSection h3 {
+    text-align: center;
+    font-size: 2em;
+    padding-bottom: 10px;
+    color: white;
+
+}
+
+.infoSection p {
+    text-align: center;
+}
+
+
+.course {
+    margin: 0 10px 10px 10px;
+    padding-top: 5px;
+    text-align: center;
+    background-color: #2e2e29;
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+.button {
+    padding: 5px;
+    width: 50%;
+}
+
+.courseButton {
+    background-color: firebrick;
+    border-radius: 4px;
+    width: 100%;
+    border: 2px solid black;
+    max-height: 40px;
+
+}
+
+.courseButton:hover .icon {
+    color: black;
+}
+
+.courseFolder {
+    background-color: teal;
+}
+
+.icon {
+    font-size: 1.5em;
+}
